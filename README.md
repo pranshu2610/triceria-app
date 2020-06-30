@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * gh-pages (For deployment)
 ### How to get started
 1. Open your terminal and enter `https://github.com/pranshu2610/triceria-app.git`
-2. After cloning, open directory by `cd triceria` and run command `npm install`
+2. After cloning, open directory by `cd triceria-app` and run command `npm install`
 3. Succeeding installation of node modules, run command `npm start`
 4. After localhost deployment the app will start running on `localhost:3000` port and ready to use
 
