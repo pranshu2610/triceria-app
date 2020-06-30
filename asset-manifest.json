@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/triceria-app/static/css/main.5c180b77.chunk.css",
+    "main.js": "/triceria-app/static/js/main.e083dc18.chunk.js",
+    "main.js.map": "/triceria-app/static/js/main.e083dc18.chunk.js.map",
+    "runtime-main.js": "/triceria-app/static/js/runtime-main.f80792a7.js",
+    "runtime-main.js.map": "/triceria-app/static/js/runtime-main.f80792a7.js.map",
+    "static/js/2.2fd5ffcd.chunk.js": "/triceria-app/static/js/2.2fd5ffcd.chunk.js",
+    "static/js/2.2fd5ffcd.chunk.js.map": "/triceria-app/static/js/2.2fd5ffcd.chunk.js.map",
+    "index.html": "/triceria-app/index.html",
+    "precache-manifest.ecacbe6c52e0d91a6285339cd2decf3b.js": "/triceria-app/precache-manifest.ecacbe6c52e0d91a6285339cd2decf3b.js",
+    "service-worker.js": "/triceria-app/service-worker.js",
+    "static/css/main.5c180b77.chunk.css.map": "/triceria-app/static/css/main.5c180b77.chunk.css.map",
+    "static/js/2.2fd5ffcd.chunk.js.LICENSE.txt": "/triceria-app/static/js/2.2fd5ffcd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f80792a7.js",
+    "static/js/2.2fd5ffcd.chunk.js",
+    "static/css/main.5c180b77.chunk.css",
+    "static/js/main.e083dc18.chunk.js"
+  ]
+}
