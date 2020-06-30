@@ -1,0 +1,55 @@
+.tag-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 6px;
+    padding-top: 4px;
+    .correct {
+        background-color: rgb(1, 133, 67);
+        color: white;
+        padding-top: 5px;
+        padding-right: 10px;
+        padding-left: 10px;
+        padding-bottom: 6px;
+        border-radius: 9px;
+        font-weight: bold !important;
+        letter-spacing: 1px;
+        font-size: 15px;
+    }
+    .hot {
+        background-color: rgb(243, 43, 43);
+        color: white;
+        padding-top: 5px;
+        padding-right: 10px;
+        padding-left: 10px;
+        padding-bottom: 6px;
+        border-radius: 9px;
+        font-weight: bold !important;
+        letter-spacing: 1px;
+        font-size: 15px;
+    }
+    .warm {
+        background-color: rgb(238, 202, 0);
+        color: black;
+        padding-top: 5px;
+        padding-right: 10px;
+        padding-left: 10px;
+        padding-bottom: 6px;
+        border-radius: 9px;
+        font-weight: bold !important;
+        letter-spacing: 1px;
+        font-size: 15px;
+    }
+    .cold {
+        background-color: rgb(0, 108, 248);
+        color: white;
+        padding-top: 5px;
+        padding-right: 10px;
+        padding-left: 10px;
+        padding-bottom: 6px;
+        border-radius: 9px;
+        font-weight: bold !important;
+        letter-spacing: 1px;
+        font-size: 15px;
+    }
+}
